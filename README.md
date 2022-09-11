@@ -1,3 +1,3 @@
 # Churn-Analysis
-Deployment using Heroku Cloud platform:
-https://churnanalysis-api.herokuapp.com/
+This project is not deployed on Heroku yet. I'm will be working on it soon.
+Thanks
