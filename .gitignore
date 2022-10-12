@@ -14,3 +14,5 @@ build/
 *.egg-info/
 
 .DS_Store
+
+Deploy Machine Learning Pipeline on Google Kubernetes Engine.pdf
